@@ -18,7 +18,7 @@ forge install https://github.com/Uniswap/solidity-lib --no-commit
 
 ## Install Specific OpenZeppelin Version for Uniswap V3 with NPM
 
-Uniswap V3 depends on an oudated version of OpenZeppelin defined in package.json:
+Uniswap V3 depends on an outdated version of OpenZeppelin defined in package.json:
 
 https://github.com/Uniswap/v3-periphery/blob/main/package.json
 
